@@ -1,0 +1,18 @@
+[ 2018-10-15T10:48:18+08:00 ] ::1 /xiaoshuo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004114s ]
+NOTIC: [8] Undefined variable: dirs D:\phpStudy\WWW\xiaoshuo\Application\Common\Conf\rewrite.php ç¬¬ 17 è¡Œ.
+NOTIC: [8] Undefined variable: dirs D:\phpStudy\WWW\xiaoshuo\Application\Common\Conf\rewrite.php ç¬¬ 17 è¡Œ.
+NOTIC: [8] Undefined variable: htmlcacherule D:\phpStudy\WWW\xiaoshuo\Application\Home\Conf\config.php ç¬¬ 29 è¡Œ.
+NOTIC: [8] Undefined variable: htmlcacherule D:\phpStudy\WWW\xiaoshuo\Application\Home\Conf\config.php ç¬¬ 44 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] Use of undefined constant ˜õ - assumed '˜õ' D:\phpStudy\WWW\xiaoshuo\Application\Home\Controller\BaseController.class.php ç¬¬ 2 è¡Œ.
+NOTIC: [8] Use of undefined constant º¥¸úª÷¡èÖöÔùéŒ½á¶…´‹Âˆê°ú¹¨Éã„µ¢±ÈšÒ±ñÊ‡ì´”ª–Ê¯ËÕòÓÀ£ÎùÌ˜Š°ÀÍ¿ñ–ÚÅÈÍÏºÄãå - assumed 'º¥¸úª÷¡èÖöÔùéŒ½á¶…´‹Âˆê°ú¹¨Éã„µ¢±ÈšÒ±ñÊ‡ì´”ª–Ê¯ËÕòÓÀ£ÎùÌ˜Š°ÀÍ¿ñ–ÚÅÈÍÏºÄãå' D:\phpStudy\WWW\xiaoshuo\Application\Home\Controller\BaseController.class.php ç¬¬ 2 è¡Œ.
+NOTIC: [8] Use of undefined constant ˜õ - assumed '˜õ' D:\phpStudy\WWW\xiaoshuo\Application\Home\Controller\BaseController.class.php ç¬¬ 2 è¡Œ.
+NOTIC: [8] Use of undefined constant –§†‰úÆ¬ÊÁøãÌªøÁ€ÅØêÕ©¥›Œö½¢Ã«š‹×äÍÑÉšüÊ¨õ¨†ªíß•ÃŠ»Ş˜ÇÖÖêõš - assumed '–§†‰úÆ¬ÊÁøãÌªøÁ€ÅØêÕ©¥›Œö½¢Ã«š‹×äÍÑÉšüÊ¨õ¨†ªíß•ÃŠ»Ş˜ÇÖÖêõš' D:\phpStudy\WWW\xiaoshuo\Application\Home\Controller\BaseController.class.php ç¬¬ 5 è¡Œ.
+NOTIC: [8] Use of undefined constant ˜õ - assumed '˜õ' D:\phpStudy\WWW\xiaoshuo\Application\Home\Controller\BaseController.class.php ç¬¬ 5 è¡Œ.
+NOTIC: [8] Use of undefined constant ˜õ - assumed '˜õ' D:\phpStudy\WWW\xiaoshuo\Application\Home\Controller\BaseController.class.php ç¬¬ 5 è¡Œ.
+
